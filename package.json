@@ -1,0 +1,23 @@
+{
+  "name": "citadel-electron",
+  "version": "1.0.0",
+  "description": "a modular electron interface for citadel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "selenium test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/George-Aiken/citadel-electron.git"
+  },
+  "keywords": [
+    "electron",
+    "modular"
+  ],
+  "author": "George Aiken",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/George-Aiken/citadel-electron/issues"
+  },
+  "homepage": "https://github.com/George-Aiken/citadel-electron#readme"
+}
